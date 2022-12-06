@@ -1,0 +1,46 @@
+.text{background-color: green;
+color: red;
+position: relative;
+padding-bottom: 37px;}
+.list{background-color: yellow;
+color: blue;
+position: relative;
+padding-bottom: 37px;}
+.table{background-color: pink;
+color: green;
+position: relative;
+padding-bottom: 37px;}
+.image{background-color: blue;
+color: pink;
+position: relative;
+padding-bottom: 37px;}
+.h1{width: 300px;
+   background-color: grey;
+color: pink;
+position: absolute;
+bottom: 0;
+margin: 0;
+font-size: 1.2rem}
+.h2{width: 300px;
+   background-color: blue;
+   color: red;
+position: absolute;
+bottom: 0;
+margin: 0;
+font-size: 1.2rem}
+.h3{width: 300px;
+   background-color: yellow;
+   color: green;
+position: absolute;
+bottom: 0;
+margin: 0;
+font-size: 1.2rem}
+.h4{width: 300px;
+   background-color: green;
+   color: yellow;
+position: absolute;
+bottom: 0;
+margin: 0;
+font-size: 1.2rem}
+.h{font-family: 'Comfortaa', cursive;;}   
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@300&display=swap');
